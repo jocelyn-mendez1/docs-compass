@@ -32,3 +32,7 @@ To configure settings with a configuration file:
 
 1. Create your own configuration file.
 
+.. toctree::
+   :titlesonly:
+
+   /config-file/
