@@ -35,4 +35,4 @@ To configure settings with a configuration file:
 .. toctree::
    :titlesonly:
 
-   /config-file/
+   /config-file/restrict-outgoing-connections.txt
