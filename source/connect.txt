@@ -126,3 +126,4 @@ The Advanced Connection Options provide additonal forms of connecting
    /connect/required-access
    /connect/favorite-connections
    /connect/disconnect
+   /connect/config-file
