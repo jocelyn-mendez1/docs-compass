@@ -16,6 +16,11 @@ When you use the command line to set configuration options, the options are
 set at startup. Settings configured using command line options cannot be 
 modified on the |compass-short| interface.
 
+Compass Executable Location
+---------------------------
+
+.. include:: /includes/compass-executable.rst
+
 Syntax
 ------
 
